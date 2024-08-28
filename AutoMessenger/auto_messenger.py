@@ -92,14 +92,3 @@ class AutoMessenger:
             print("Messaging interrupted!")
 
 
-# Usage example
-if __name__ == "__main__":
-    external_messages = [
-        "Good Morning!",
-        "What's up?",
-        "Hope you're doing well!",
-    ]
-
-    messenger = AutoMessenger(external_messages=external_messages)
-    messenger.set_input_position(5)  # Record the cursor position
-    messenger.start_sending(delay=10)  # Start sending messages after 10 seconds
