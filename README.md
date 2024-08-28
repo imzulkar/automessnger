@@ -1,6 +1,3 @@
-Here's an updated `README.md` file that includes detailed usage examples and explanations on how to use the `AutoMessenger` package:
-
-````markdown
 # AutoMessenger
 
 AutoMessenger is a Python package designed to automate the sending of messages using `pyautogui`. It allows you to send messages at random intervals to a specified input field, with support for custom and default messages.
@@ -19,7 +16,6 @@ To install AutoMessenger, ensure you have Python 3.6+ installed on your system. 
 ```bash
 pip install AutoMessenger
 ```
-````
 
 ## Usage
 
@@ -138,11 +134,9 @@ Contributions are welcome! Please submit issues and pull requests on GitHub.
 
 For any questions or issues, please contact:
 
-- **Author**: Your Name
-- **Email**: your.email@example.com
-- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
-
-```
+- **Author**: GM Zulkar Nine
+- **Email**: gmzulkar@gmail.com
+- **GitHub**: [Your GitHub Profile](https://github.com/imzulkar)
 
 ### Summary of Additions:
 
@@ -152,6 +146,3 @@ For any questions or issues, please contact:
 - **Dependencies**: Lists and explains the required dependency.
 - **Example Script**: Provides a complete script for practical use.
 - **License and Contributing**: Basic information on the license and contributing guidelines.
-
-This `README.md` file provides comprehensive information for users to install, configure, and use your package effectively.
-```
